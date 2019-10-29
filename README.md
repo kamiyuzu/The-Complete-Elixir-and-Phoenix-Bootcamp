@@ -20,6 +20,8 @@ Proyect accomplished following: The Complete Elixir and Phoenix Bootcamp from ud
 
 The purpose of this repository is to acquire the knowledge of Phoenix framework. Followed specifically to get a grasp of channels interaction.
 
+![discuss](discuss.png)
+
 ## Prerequisites
 
   * To run this project you need:

@@ -35,7 +35,7 @@ The purpose of this repository is to acquire the knowledge of Phoenix framework.
 
 ## Authors
 
-* **Ben Wilson** - *initial work* [StephenGrider](https://github.com/StephenGrider)
+* **Stephen Grider** - *initial work* [StephenGrider](https://github.com/StephenGrider)
 * **Alberto Revuelta Arribas** - *continued work* [kamigari](https://github.com/kamigari)
 
 ## License
